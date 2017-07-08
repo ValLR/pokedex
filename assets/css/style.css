@@ -3,3 +3,15 @@ body{
 	margin:0;
 	overflow-x: hidden;
 }
+header{
+	font-family: 'Sonsie One', cursive;
+	background: url("../img/nature-Pokemon.jpg");
+	padding: 100px;
+}
+h3{
+	margin:0;
+}
+h4{
+	margin:0;
+}
+
