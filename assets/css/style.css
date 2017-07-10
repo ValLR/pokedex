@@ -4,6 +4,7 @@ body{
 	overflow-x: hidden;
 	background-color: #7FAC71;
 }
+
 header{
 	font-family: 'Sonsie One', cursive;
 	background: url("../img/nature-Pokemon.jpg");
@@ -24,6 +25,12 @@ h4{
 }
 .input-field{
 	background-color: #7FAC71;
+}
+.pi {	
+	width: 11%;
+	background-color: #edecec;
+	margin: 2% 2%;
+	padding: 4% 1%;
 }
 .btn-large{
 	background-color:#FFCA04;
